@@ -1,4 +1,5 @@
-cd E:\SEM_06
+#!/bin/sh
+cd c:/xampp/htdocs/demoproject
 git add --all
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"

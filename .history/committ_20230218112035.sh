@@ -1,3 +1,4 @@
+#!/bin/sh
 cd E:\SEM_06
 git add --all
 timestamp() {
