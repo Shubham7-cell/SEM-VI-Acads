@@ -1,0 +1,4 @@
+
+Audio books have a problem with their user interface (UI) due to limited navigation options, which can make it challenging for users to easily move between different sections of the book or locate specific content.
+
+Moreover applications like Kindle don't offer ambient background music, which can enhance the listening experience and make the content more engaging. Limited customization options for the UI are still a drawback, preventing users from fully personalizing the audio book to their preferences.
